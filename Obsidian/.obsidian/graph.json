@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:/^(0[1-4] · )?(macOS|Terminal\\.app|셸과 zsh|PATH)\\.md$/",
+      "color": {
+        "a": 1,
+        "rgb": 6467071
+      }
+    },
+    {
+      "query": "file:/^(0[1-4] · )?(Homebrew|Xcode Command Line Tools|Homebrew와 Xcode Command Line Tools)\\.md$/",
+      "color": {
+        "a": 1,
+        "rgb": 5812655
+      }
+    },
+    {
+      "query": "file:/^(0[1-4] · )?(Homebrew Formula|Homebrew Bottle|소스 빌드|Homebrew의 패키지 설치 방식 비교)\\.md$/",
+      "color": {
+        "a": 1,
+        "rgb": 15183450
+      }
+    },
+    {
+      "query": "file:\"맥북 개발환경 시작\"",
+      "color": {
+        "a": 1,
+        "rgb": 11440599
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.8,
+  "lineSizeMultiplier": 0.7,
+  "collapse-forces": true,
+  "centerStrength": 0.25,
+  "repelStrength": 18,
+  "linkStrength": 1,
+  "linkDistance": 340,
+  "scale": 0.5232908522567384,
+  "close": true
+}
